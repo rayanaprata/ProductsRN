@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "titulo": "iPhone 12",
+      "categoria": "Smartphone",
+      "modelo": "(64 GB) - Branco",
+      "quantidade": 5,
+      "img": "https://m.media-amazon.com/images/I/41slQ93jLZL._AC_SL1000_.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "iPhone 13",
+      "categoria": "Smartphone",
+      "modelo": "(128 GB) - Verde",
+      "quantidade": "15",
+      "img": "https://m.media-amazon.com/images/I/41BM66Bro7L._AC_SL1000_.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "iPhone 14",
+      "categoria": "Smartphone",
+      "modelo": "(128 GB) – Cinza-Escuro",
+      "quantidade": 3,
+      "img": "https://m.media-amazon.com/images/I/61cwywLZR-L._AC_SL1500_.jpg"
+    }
+  ]
+}
