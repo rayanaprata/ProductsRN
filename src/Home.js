@@ -25,21 +25,28 @@ const Home = () => {
           flexDirection: 'row',
           alignItems: 'center',
           justifyContent: 'space-around',
+          backgroundColor: '#F8F8FF',
         }}>
         <Text
           style={{
             fontSize: 20,
+            fontWeight: '300',
+            fontFamily: 'helvetica',
             marginTop: 20,
+            marginBottom: 20,
           }}>
           Cadastro de Estoque
         </Text>
 
-        <TouchableOpacity onPress={() => navigation.navigate('Cadastro')} style={{
-              backgroundColor: '#6495ED',
-              marginTop: 20,
-              height: 40,
-              width: 80,
-            }}>
+        <TouchableOpacity
+          onPress={() => navigation.navigate('Cadastro')}
+          style={{
+            backgroundColor: '#6495ED',
+            marginTop: 20,
+            marginBottom: 20,
+            height: 40,
+            width: 80,
+          }}>
           <Text
             style={{
               fontSize: 15,
